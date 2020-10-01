@@ -1,3 +1,3 @@
 # Kaggle-Notebooks
 
-This repository contains some past-competition related kaggle notebooks.
+This repository contains some past related kaggle notebooks.
